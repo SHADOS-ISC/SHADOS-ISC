@@ -61,7 +61,7 @@ Combined       →  the closest thing to unbreakable
 
 ```python
 my_passion = {
-    "core"        : "Security Automation & Scripting",
+    "core"        : "Building infrastructures that fight back — automatically",
     "domain"      : "SOC Engineering · Threat Intelligence · Penetration Testing",
     "languages"   : ["Python", "Bash"],
     "philosophy"  : "If I do it twice manually, I automate it.",
