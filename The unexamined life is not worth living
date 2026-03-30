@@ -9,7 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Islem%20Cherif-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/islem-cherif)
 [![Email](https://img.shields.io/badge/Email-islem.cherif.cse%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:islem.cherif.cse@gmail.com)
-[![Location](https://img.shields.io/badge/📍-Ben%20Arous%2C%20Tunisia-gray?style=flat-square)](https://maps.google.com/?q=Ben+Arous,Tunisia)
+[![Location](https://img.shields.io/badge/🌍-Remote%20·%20Worldwide-gray?style=flat-square)](#)
 
 </div>
 
@@ -19,9 +19,9 @@
 
 > *Cybersecurity Engineer with **3 years** of hands-on experience in SOC operations, penetration testing, and enterprise security architecture — driven by a passion for automation, threat intelligence, and building resilient defenses.*
 
-- 🔐 Specialized in **SIEM/SOAR administration**, **vulnerability management**, and **incident response**
-- ⚡ Achieved **30% reduction in SOC response time** via FortiSOAR automation & custom playbooks
-- 📉 Reduced **false positives by 20%** through continuous IBM QRadar tuning & use-case development
+- 🐍 Passionate about **Security Automation** — building Python & Bash scripts that eliminate manual SOC toil
+- ⚡ Achieved **30% reduction in SOC response time** through custom automation scripts & SOAR playbooks
+- 📉 Reduced **false positives by 20%** through continuous SIEM tuning & AI-assisted reporting pipelines
 - 🌐 Experienced across **hybrid cloud/on-premises environments**
 - 🎓 Engineering Degree in **Information Systems & Network Security** — TEK-UP University
 - 🏫 Former **Part-Time Lecturer** in Network & Systems Security at ISET Rades
@@ -30,11 +30,19 @@
 
 ## 🛡️ Technical Arsenal
 
-### SIEM / SOAR
+### 🐍 Scripting & Automation *(Core Focus)*
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Automation](https://img.shields.io/badge/SOC%20Automation-Scripts-blueviolet?style=flat-square&logoColor=white)
+![AI Reporting](https://img.shields.io/badge/AI--Assisted%20Reporting-Pipelines-ff69b4?style=flat-square&logoColor=white)
+
+> Building custom scripts for alert triage, threat reporting, IOC enrichment, and end-to-end SOC workflow automation.
+
+### SIEM & Security Platforms
 ![IBM QRadar](https://img.shields.io/badge/IBM%20QRadar-052FAD?style=flat-square&logo=ibm&logoColor=white)
 ![FortiSIEM](https://img.shields.io/badge/FortiSIEM-EE3124?style=flat-square&logo=fortinet&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white)
-![FortiSOAR](https://img.shields.io/badge/FortiSOAR-EE3124?style=flat-square&logo=fortinet&logoColor=white)
+![SOAR](https://img.shields.io/badge/SOAR%20Platforms-hands--on-EE3124?style=flat-square&logoColor=white)
 
 ### EDR / Threat Intelligence
 ![Kaspersky EDR](https://img.shields.io/badge/Kaspersky%20EDR-006D5B?style=flat-square&logo=kaspersky&logoColor=white)
@@ -54,10 +62,6 @@
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-
-### Scripting & Automation
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 ### Network & Cloud
 ![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=flat-square&logo=fortinet&logoColor=white)
@@ -86,22 +90,22 @@
 
 ```
 🏢 Focus Corporation                     Jun 2024 – Present
-   Cybersecurity Engineer / SOC Engineer  | Tunis, Tunisia
-   ├── IBM QRadar: 20% false-positive reduction
-   ├── FortiSOAR: 30% SOC response time reduction
-   ├── OpenCTI + MISP: Threat intelligence & IOC management
-   ├── F5 BIG-IP WAF administration
+   Cybersecurity Engineer / SOC Engineer  | Remote · Worldwide
+   ├── Python & Bash: custom scripts for SOC automation & AI-assisted reporting
+   ├── IBM QRadar: use-case development → 20% false-positive reduction
+   ├── SOAR platforms: hands-on playbook design → 30% response time reduction
+   ├── OpenCTI + MISP: IOC enrichment & threat intelligence pipelines
    └── ISO 27001:2022 compliance audit preparation
 
 🏢 Banking Intelligence Consulting        Sep 2023 – May 2024
-   Cybersecurity Consultant / Pentester   | Tunis, Tunisia
+   Cybersecurity Consultant / Pentester   | Remote · Worldwide
    ├── Black / Grey / White Box pentests (network, web, mobile)
+   ├── Automated pentest reporting scripts (Python)
    ├── Active Directory hardening
-   ├── Rapid7 Nexpose + Trend Micro EDR deployment
    └── FortiGate & Juniper SRX300 firewall audits
 
 🎓 ISET Rades                            Oct 2023 – Jan 2024
-   Part-Time Lecturer                     | Tunis, Tunisia
+   Part-Time Lecturer                     | Tunisia
    └── Network Security, System Hardening, Ethical Hacking labs
 
 🏢 TDS Global Technologies               Jan 2023 – Jul 2023
