@@ -20,7 +20,7 @@
 
 ---
 
-## 🧠 Who Am I?
+##  Who Am I?
 
 I'm **Islem Cherif** — a Cybersecurity Engineer with **3 years** in the trenches of SOC operations, penetration testing, and security architecture.
 
@@ -32,7 +32,7 @@ I build Python & Bash tools that eliminate manual SOC toil, enrich threat intell
 
 ---
 
-## 👁️ My Philosophy — Eyes That Never Sleep
+##  My Philosophy — Eyes That Never Sleep
 
 > *"We are human. We sleep, we rest, we have limits.*
 > *But the threats never do."*
@@ -57,7 +57,7 @@ Combined       →  the closest thing to unbreakable
 
 ---
 
-## ⚡ What I Build
+##  What I Build
 
 ```python
 my_passion = {
@@ -71,13 +71,13 @@ my_passion = {
 
 ---
 
-## 🛠️ Featured Tools
+##  Featured Tools
 
 > Each tool below was built to solve a **real problem** in a production SOC environment.
 
 ---
 
-### 🔍 ShadowTrace — Automated SIEM Investigation Engine
+###  ShadowTrace — Automated SIEM Investigation Engine
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/SHADOS-ISC/ShadowTrace)
 [![Status](https://img.shields.io/badge/Status-Active-00D9FF?style=flat-square)](#)
 [![Version](https://img.shields.io/badge/Version-v2.0-success?style=flat-square)](#)
@@ -103,11 +103,11 @@ Kill Chain      : All 7 stages mapped automatically
 MITRE ATT&CK    : Auto-mapping from offense metadata
 ```
 
-🔗 **[→ View ShadowTrace Repository](#)** *(coming soon)*
+**[→ View ShadowTrace Repository](#)** *(coming soon)*
 
 ---
 
-### 🛡️ *More tools dropping soon...*
+###  *More tools dropping soon...*
 
 > I'm currently cleaning and documenting my other scripts before publishing.
 > Each one solves a specific SOC automation challenge.
@@ -115,7 +115,7 @@ MITRE ATT&CK    : Auto-mapping from offense metadata
 
 ---
 
-## 🧰 Technical Stack
+##  Technical Stack
 
 ### Core — Scripting & Automation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -146,7 +146,7 @@ MITRE ATT&CK    : Auto-mapping from offense metadata
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -160,7 +160,7 @@ MITRE ATT&CK    : Auto-mapping from offense metadata
 
 ---
 
-## 🎯 Frameworks & Standards
+##  Frameworks & Standards
 
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-red?style=flat-square)
 ![Cyber Kill Chain](https://img.shields.io/badge/Cyber%20Kill%20Chain-darkred?style=flat-square)
@@ -170,7 +170,7 @@ MITRE ATT&CK    : Auto-mapping from offense metadata
 
 ---
 
-## 🏅 Certifications
+##  Certifications
 
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B%20CE-FF0000?style=flat-square&logo=comptia&logoColor=white)
 ![OPSWAT OOSE](https://img.shields.io/badge/OPSWAT-OT%20Security%20Expert-00AEEF?style=flat-square)
@@ -184,6 +184,6 @@ MITRE ATT&CK    : Auto-mapping from offense metadata
 
 *"Complexity is the enemy of security — automation is the answer."*
 
-📫 **islem.cherif.cse@gmail.com** · [LinkedIn](https://linkedin.com/in/islem-cherif-)
+ **islem.cherif.cse@gmail.com** · [LinkedIn](https://linkedin.com/in/islem-cherif-)
 
 </div>
