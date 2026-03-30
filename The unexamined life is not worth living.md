@@ -184,6 +184,6 @@ MITRE ATT&CK    : Auto-mapping from offense metadata
 
 *"Complexity is the enemy of security — automation is the answer."*
 
-📫 **islem.cherif.cse@gmail.com** · [LinkedIn](https://linkedin.com/in/islem-cherif)
+📫 **islem.cherif.cse@gmail.com** · [LinkedIn](https://linkedin.com/in/islem-cherif-)
 
 </div>
