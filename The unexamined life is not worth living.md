@@ -42,7 +42,7 @@
 ![IBM QRadar](https://img.shields.io/badge/IBM%20QRadar-052FAD?style=flat-square&logo=ibm&logoColor=white)
 ![FortiSIEM](https://img.shields.io/badge/FortiSIEM-EE3124?style=flat-square&logo=fortinet&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white)
-![SOAR](https://img.shields.io/badge/SOAR%20Platforms-hands--on-EE3124?style=flat-square&logoColor=white)
+![SOAR](https://img.shields.io/badge/SOAR%20Platforms-hands--onFORTISOAR-EE3124?style=flat-square&logoColor=white)
 
 ### EDR / Threat Intelligence
 ![Kaspersky EDR](https://img.shields.io/badge/Kaspersky%20EDR-006D5B?style=flat-square&logo=kaspersky&logoColor=white)
@@ -90,7 +90,7 @@
 
 ```
 🏢 Focus Corporation                     Jun 2024 – Present
-   Cybersecurity Engineer / SOC Engineer  | Remote · Worldwide
+   Cybersecurity Engineer / SOC Engineer  | Tunisia
    ├── Python & Bash: custom scripts for SOC automation & AI-assisted reporting
    ├── IBM QRadar: use-case development → 20% false-positive reduction
    ├── SOAR platforms: hands-on playbook design → 30% response time reduction
@@ -98,7 +98,7 @@
    └── ISO 27001:2022 compliance audit preparation
 
 🏢 Banking Intelligence Consulting        Sep 2023 – May 2024
-   Cybersecurity Consultant / Pentester   | Remote · Worldwide
+   Cybersecurity Consultant / Pentester   | Tunisia
    ├── Black / Grey / White Box pentests (network, web, mobile)
    ├── Automated pentest reporting scripts (Python)
    ├── Active Directory hardening
