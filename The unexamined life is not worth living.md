@@ -9,11 +9,11 @@
 ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚══════╝
 ```
 
-### *"I don't just defend systems — I build the tools that do it for me."*
+### *"I don't just secure systems — I build what secures them."*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Islem%20Cherif-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/islem-cherif)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Islem%20Cherif--0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/islem-cherif)
 [![Email](https://img.shields.io/badge/Email-islem.cherif.cse%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:islem.cherif.cse@gmail.com)
-[![Location](https://img.shields.io/badge/🌍-Remote%20·%20Worldwide-gray?style=flat-square)](#)
+[![Location](https://img.shields.io/badge/🌍-%20·%20Worldwide-gray?style=flat-square)](#)
 [![Profile Views](https://komarev.com/ghpvc/?username=SHADOS-ISC&color=00D9FF&style=flat-square&label=Profile+Views)](#)
 
 </div>
