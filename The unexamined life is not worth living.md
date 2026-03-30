@@ -42,7 +42,7 @@
 ![IBM QRadar](https://img.shields.io/badge/IBM%20QRadar-052FAD?style=flat-square&logo=ibm&logoColor=white)
 ![FortiSIEM](https://img.shields.io/badge/FortiSIEM-EE3124?style=flat-square&logo=fortinet&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white)
-![SOAR](https://img.shields.io/badge/SOAR%20Platforms-hands--onFORTISOAR-EE3124?style=flat-square&logoColor=white)
+![FortiSOAR](https://img.shields.io/badge/FortiSOAR-experienced-EE3124?style=flat-square&logo=fortinet&logoColor=white)
 
 ### EDR / Threat Intelligence
 ![Kaspersky EDR](https://img.shields.io/badge/Kaspersky%20EDR-006D5B?style=flat-square&logo=kaspersky&logoColor=white)
