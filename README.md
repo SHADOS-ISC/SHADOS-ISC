@@ -111,7 +111,7 @@ MITRE ATT&CK    : Auto-mapping from offense metadata
 
 > I'm currently cleaning and documenting my other scripts before publishing.
 > Each one solves a specific SOC automation challenge.
-> **Watch this space — ⭐ Star to get notified.**
+> **Watch this space —  Star to get notified.**
 
 ---
 
